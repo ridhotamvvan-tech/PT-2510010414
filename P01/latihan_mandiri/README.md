@@ -1,0 +1,5 @@
+##Latihan Mandiri P01:
+
+Pada latihan ini dilakukan beberapa percobaan, salah satunya memperbaiki program rerata.cpp dengan mengubah nilai pembagi dari 3.0 menjadi 5.0, sehingga menghasilkan nilai rata-rata 84. Selain itu, dilakukan percobaan pada program hello.cpp dengan menghilangkan tanda kutip penutup untuk melihat pesan error dari compiler, yaitu missing terminating " character. Percobaan lainnya dilakukan dengan menghapus header <iostream> dan melihat pesan error 'cout' is not a member of 'std', karena penggunaan std::cout memerlukan header tersebut.
+
+Percobaan terakhir dilakukan pada rerata_awal.cpp dengan membandingkan proses kompilasi menggunakan g++ biasa dan menggunakan g++ -Wall -Wextra. Saat menggunakan opsi warning, compiler memberikan peringatan bahwa variabel tugas, uts, dan uas belum digunakan.
